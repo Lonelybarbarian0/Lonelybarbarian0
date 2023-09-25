@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lonelybarbarian0
+- 👋 Hi, I’m Kailas
 - 👀 I’m interested in embedded systems and nano electronics
 - 🌱 I’m currently learning electronics and a little bit of coding as well
 - 💞️ I’m looking to collaborate on some electronics company
