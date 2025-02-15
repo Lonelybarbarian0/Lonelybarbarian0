@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kailasnath R 
-- 👀 My area of focus is in embedded systems and in emerging technologies like AI/ML.
+- 👀 My area of focus is in electronics , embedded systems , hardware design , etc.
 - 🌱 Currently doing B.tech in Electronics and Communication.
 - 💞️ I’m looking to collaborate on any kind of development works (either electronics or coding).
 - 📫 How to reach me 👇
